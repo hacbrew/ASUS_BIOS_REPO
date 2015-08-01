@@ -1,15 +1,15 @@
 ASUS UEFI BIOS MODDED REPOSITORY
 
 All bios files include:
--MSR 0xE2 Unlocked (Apple Power Management)
--CPU MICROCODE UPDATED (Better OC)
--iGPU GOP UPDATED (Integrated GPU driver)
--LAN PXE UPDATED (Intel/Realtek)
--AHCI/RAID UPDATED (Intel/Marvel)
--ASUS ROG LOGO (From Rampage IV Black)
+-MSR 0xE2 Unlocked (Apple Power Management)<br />
+-CPU MICROCODE UPDATED (Better OC)<br />
+-iGPU GOP UPDATED (Integrated GPU driver)<br />
+-LAN PXE UPDATED (Intel/Realtek)<br />
+-AHCI/RAID UPDATED (Intel/Marvel)<br />
+-ASUS ROG LOGO (From Rampage IV Black)<br />
 
-I'll add more models soon. You can ask me (issues tab), to include yours.
-Just keep on mind that I'll not edit any bios that isn't from ASUS.
+I'll add more models soon. You can ask me (issues tab), to include yours.<br />
+Just keep on mind that I'll not edit any bios that isn't from ASUS.<br />
 
 
 Only Flash a BIOS for your MODEL!
