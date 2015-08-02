@@ -28,6 +28,7 @@ P8Z77-V LX | P8Z77VLX.CAP  | 2501     | Z77
 Model Name     | File Name  | Version  | Chipset 
 --------------:|:----------:|:--------:|:--------
 ROG G20AJ      | G20AJ.CAP  | 0703     | H97
+B85-PRO GAMER  | B85PGM.CAP | 2203     | B85
 
 <br />
 I'll add more models soon. You can ask me (issues tab), to include yours.<br />
