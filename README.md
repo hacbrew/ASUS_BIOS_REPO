@@ -12,6 +12,7 @@ Only Flash a BIOS for your MODEL!
 ==================================
 
 **LGA 1155 (Intel 6/7 Series)**
+
 Model Name     | File Name  | Version  | Chipset 
 --------------:|:----------:|:--------:|:--------
 P8Z77-V Deluxe | Z77VD.CAP  | 2104     | Z77
@@ -23,6 +24,7 @@ P8Z77-V LX | P8Z77VLX.CAP  | 2501     | Z77
 
 <br />
 **LGA 1150 (Intel 8/9 Series)**
+
 Model Name     | File Name  | Version  | Chipset 
 --------------:|:----------:|:--------:|:--------
 ROG G20AJ      | G20AJ.CAP  | 0703     | H97
