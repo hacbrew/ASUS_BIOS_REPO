@@ -41,11 +41,10 @@ Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 P9X79 | P9X79.CAP | 4801 | X79 | Updated | No
 
 <br />
-Attention:
----------- 
-9 Series aren't able to update microcode, since it will disable one of the cpu generations (haswell/broadwell)
-ROG G20AJ Only supports haswell processors, so, there isn't any problem in update it.
-X79 series, can't be MSR unlocked (Apple PM Patch). Probably, it is already.
+**Attention:** <br />
+9 Series aren't able to update microcode, since it will disable one of the cpu generations (haswell/broadwell)<br />
+ROG G20AJ Only supports haswell processors, so, there isn't any problem in update it.<br />
+X79 series, can't be MSR unlocked (Apple PM Patch). Probably, it is already.<br />
 <br />
 I'll add more models soon. You can ask me (issues tab), to include yours.<br />
 Just keep on mind that I'll not edit any bios that isn't from ASUS.
